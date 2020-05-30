@@ -1,0 +1,37 @@
+{
+	"header":{
+		"version":"1.0"
+	},
+	"body":
+	{
+		"productOfferings":{
+			"productOffering":[
+				{
+				"productId":1234,
+				"productName":"mobile",
+				"poCharecteristics":{
+					"poCharecteristic":[
+						{
+							"description":"calling"
+						}
+					]
+				}
+		     	},
+		     	{
+				"productId":5678,
+				"productName":"laptop",
+				"poCharecteristics":{
+					"poCharecteristic":[
+						{
+							"description":"generalpurpose"
+						}
+						]
+				}
+		     	}
+
+
+
+			]
+		}
+	}
+}
